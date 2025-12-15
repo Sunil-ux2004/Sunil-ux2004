@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 💫 About Me:
-About Me<br>Fitness lover 💪 | Powerlifting enthusiast<br>B.Tech student 🎓<br>Discipline • Consistency • Growth<br><br><br>---<br><br>Fitness / Powerlifting Style<br><br>About Me<br>Powerlifting 🏋️‍♂️ | Strength mindset<br>Focused on progress, not excuses<br>Eat • Train • Repeat<br><br><br>---<br><br>Short & Cool<br><br>About Me<br>Strong mind, stronger body 💥<br>Gym is my therapy<br>Always leveling up<br><br><br>---<br><br>Hindi + English Mix<br><br>About Me<br>Gym lover 💪<br>Mehnat meri pehchan<br>Powerlifting | B.Tech 🎓
+-👋 Hi, I’m a Java learner
+☕ Currently learning Core Java & OOP concepts
+📘 Practicing programs and assignments
+🎯 Goal: Become a skilled Java Developer
 
 
 ## 🌐 Socials:
